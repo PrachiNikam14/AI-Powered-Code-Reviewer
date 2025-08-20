@@ -1,10 +1,2 @@
-```javascript
-const sum = (a, b) => {
-  const bigA = BigInt(a);
-  const bigB = BigInt(b);
-  return bigA + bigB;
-};
-
-```javascript
-const sum = (a, b) => a + b;
-```
+# AI-Powered-Code-Reviewer
+AI-Powered-Code-Reviewer which helps to identify and improve code by analyzing it and giving proper suggestions.
